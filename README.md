@@ -1,2 +1,5 @@
 # hello-world
-just sample repository
+Hi Everyone
+
+Its just a sample repository for practice purpose.
+Thankyou.
